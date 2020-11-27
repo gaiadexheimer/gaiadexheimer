@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá!
 
 <!--
 **gaiadexheimer/gaiadexheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Tenho paixão pelo uso da tecnologia na criação de um mundo interconectado que vai melhorar a qualidade de vida das pessoas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Faço faculdade de Sistemas de Informação e atualmente estou desenvolvendo meu conhecimento em Java.
+
+📊 Gosto de estar atualizada em relação a mercado financeiro e bolsas de valores.
+
+🗺️ Adoro viajar, conhecer novos lugares e criar novas conexões.
+
+Vamos compartilhar ideias?
+📩 gaia.ddex@gmail.com
