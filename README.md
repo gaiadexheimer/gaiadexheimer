@@ -8,5 +8,5 @@ Tenho paixão pelo uso da tecnologia na criação de um mundo interconectado que
 
 🗺️ Adoro viajar, conhecer novos lugares e criar novas conexões.
 
-Vamos compartilhar ideias?
-📩 <br>[![Gmail Badge](https://img.shields.io/badge/-gaia.ddex@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaia.ddex@gmail.com)](mailto:gaia.ddex@gmail.com)
+📩 Vamos compartilhar ideias?
+<br>[![Gmail Badge](https://img.shields.io/badge/-gaia.ddex@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaia.ddex@gmail.com)](mailto:gaia.ddex@gmail.com)
