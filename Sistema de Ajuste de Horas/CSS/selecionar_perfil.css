@@ -1,0 +1,68 @@
+ #foto{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 445px;
+ }
+ 
+ body{
+    background-image:url("pexels.jpg");
+    background-size: cover;
+ }
+
+ #main{
+    margin: 0 auto;
+     width: 1000px;
+ }
+
+ #identificacao{
+     text-align: center;
+     margin-bottom: 50px;
+     font-family: Trebuchet MS, sans-serif;
+     font-size: 8pt;
+     border-style: inset;
+     border-color: #ebeded;
+     background-color:#ebeded;
+     border-width: 0.8px;
+ }
+
+  #titulo{
+    font-weight: 100;
+ }
+
+ #corpo{
+     text-align: center;
+ }
+
+ #perfil_usuario{
+     margin-top: 15px;
+     font-size: 13pt;
+     font-family: Trebuchet MS, sans-serif;
+     cursor: auto;
+ }
+
+ select{
+    display: block;
+    margin: 15px auto 10px auto;
+    font-family: Trebuchet MS, sans-serif;
+    border-radius: 3px;
+    border: 1px solid #60848a;
+    font-size: 11pt;
+    padding: 6px 45px;
+}
+
+ input{
+     display: block;
+     margin: 90px auto 20px auto;
+     padding: 8px 200px 8px 200px;
+     cursor: pointer;
+     border: 1.5px;
+     background-color: #60848a;
+     border-radius: 3px;
+     font-family: Trebuchet MS, sans-serif;
+     color: ghostwhite;
+     font-weight: bold;
+ }
+
+ input:hover{
+    text-shadow: 3px 3px 10px #9ad0d9;
+}

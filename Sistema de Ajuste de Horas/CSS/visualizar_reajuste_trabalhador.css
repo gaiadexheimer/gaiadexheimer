@@ -1,0 +1,172 @@
+#foto{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 445px;
+ }
+ 
+ body{
+    background-image:url("pexels.jpg");
+    background-size: cover;
+    font-family: Trebuchet MS, sans-serif;
+ }
+
+ #main{
+    margin: 0 auto;
+     width: 1000px;
+ }
+
+ #identificacao{
+    height: 38px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20pt;
+    border-style: inset;
+    border-color: #ebeded;
+    background-color:#ebeded;
+    border-width: 0.8px;
+ }
+
+ input{
+    border: 1px solid #60848a;
+ }
+
+ #titulo1{
+     display: inline;
+     font-size: 12pt;
+     font-weight: 100;
+ }
+
+ #titulo2{
+     display: inline;
+     margin-left: 200px;
+     font-size: 12pt;
+     font-weight: 100;
+ }
+
+ #insere_hora{
+     margin-left: 150px;
+ }
+
+ #table_insere_horas{
+     text-align: center;
+     margin-left: 200px;
+     font-size: 11pt;
+     background-color: #ebeded;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     border-radius: 2px;
+     border: 0.5px solid #c5c5c5;
+ }
+
+ #consulta{
+     font-size: 16pt;
+     margin-left: 150px;
+ }
+
+ select{
+    font-size: 11pt;
+    cursor: auto;
+    border-radius: 3px;
+    border: 1px solid #60848a;
+    padding-top: auto;
+ }
+
+ #botao_consultar{
+    padding: 2.5px 40px 2.5px 40px;
+    cursor: pointer;
+    border: 1px;
+    background-color: #60848a;
+    border-radius: 3px;
+    margin-top: 25px;
+    margin-left: 700px;
+    color: ghostwhite;
+    font-weight: bold;
+    font-size: 10pt;
+    margin-bottom: 25px;
+ }
+
+ #botao_inserir_hora:hover{
+    text-shadow: 3px 3px 10px #9ad0d9;
+}
+
+#table_lista_de_horas{
+    text-align: center;
+    margin-left: 150px;
+    font-size: 11pt;
+    background-color: #ebeded;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 2px;
+    border: 0.5px solid #c5c5c5;
+}
+
+#lista_horas{
+    font-size: 16pt;
+    margin-left: 150px;
+}
+
+#opcoes_download{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 8px;
+}
+
+#opcoes_seta1{
+    position: absolute;
+    margin-left: 743px;
+    margin-top: 32px;
+}
+
+#opcoes_seta2{
+    position: absolute;
+    margin-left: 783px;
+    margin-top: 32px;
+}
+
+#legenda{
+    margin-top: 20px;
+    font-size: 14pt;
+    margin-left: 150px;
+}
+
+#config{
+    margin-left: 138px;
+    margin-bottom: 20px;
+    font-size: 12pt;
+}
+
+span{
+    margin-right: 2px;
+    margin-left: 12px;
+}
+
+#status{
+    font-size: 16pt;
+    margin-top: 45px;
+    margin-left: 150px;
+}
+
+#definicao_status{
+    width: 700px;
+    margin-left: 150px;
+    margin-bottom: 70px;
+    font-size: 11pt;
+    background-color: #ebeded;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 2px;
+    border: 0.5px solid #c5c5c5;
+    text-align: center;
+}
+
+#opcoes{
+    position:absolute;
+    left: 80px;
+    top:310px;
+    width:117px;
+    height:150px;
+    background-color: #ebeded;
+    border-radius: 2px;
+    border: 0.5px solid #c5c5c5;
+    font-size: 11.5pt;
+    text-align: center;

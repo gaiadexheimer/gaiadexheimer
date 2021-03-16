@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <style>
+        table, th, td {
+          border: 1px solid #c5c5c5;
+          border-collapse: collapse;
+        }
+        </style>
+    <meta charset="UTF-8">
+    <title> VISUALIZAR REAJUSTE TRBALHADOR </title>
+    <link rel="stylesheet" type="text/css" href="CSS/visualizar_reajuste_trabalhador.css">
+</head>
+
+<body>
+    <div id="main">
+        <div id="foto">
+            <img src="CSS/clock.png" id="relogio" alt="relogio" height="110" width="110">
+        </div>
+
+        <div id="identificacao">
+            <h1 id="titulo1">Usuário: Fulano de Tal</h1>
+            <h1 id="titulo2">Perfil: XxXxX </h1>
+        </div>
+
+        <table style="width:60%" id="table_insere_horas">
+            <h2 id="consulta">Consulta</h2>
+            <th>Data Início:</th>
+            <th>Data Final:</th>
+            <th>Justificativa:</th>
+            <tr>
+                <td><input type="date" id="d_entrada" name="d_entrada"></td>
+                <td><input type="date" id="d_saida" name="d_saida"></td>
+                <td><select name="justificativa" id="justificativa">
+                        <option value="" selected="selected">Selecione</option>
+                        <option value="">Prod. Conteúdo</option>
+                        <option value="">Versionamento</option>
+                        <option value="">Capacitação</option>
+                        <option value="">Empréstimo</option>
+                    </select></td>
+            </tr>
+        </table>
+
+        <input type="submit" value="Consultar" id="botao_consultar">
+
+        <table style="width:70%" id="table_lista_de_horas">
+            <h2 id="lista_horas">Lista de Horas</h2>
+            <th>Data</th>
+            <th>Hora Entrada</th>
+            <th>Hora Saída</th>
+            <th>Total Horas</th>
+            <th>Justificativa</th>
+            <tr>
+                <td>10/10/2016</td>
+                <td>8:00</td>
+                <td>12:00</td>
+                <td>4</td>
+                <td>Versionamento</td>
+            </tr>
+
+            <tr>
+                <td>10/10/2016</td>
+                <td>13:00</td>
+                <td>17:00</td>
+                <td>4</td>
+                <td>Produção</td>
+            </tr>
+
+            <tr>
+                <td>11/10/2016</td>
+                <td>10:00</td>
+                <td>12:00</td>
+                <td>2</td>
+                <td>Capacitação</td>
+            </tr>
+
+            <tr>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>10</td>
+                <td>-</td>
+                <td></td>
+            </tr>
+        </table>
+
+        <div id="opcoes_download">
+            <span><img src="CSS/imprimir.png"></span>
+            <span><img src="CSS/excel.png"></span>
+            <span><img src="CSS/pdf.png"></span>
+        </div>
+
+        <div id="opcoes_seta1">
+            <span><img src="CSS/seta.png"></span>
+        </div>
+
+        <div id="opcoes_seta2">
+            <span><img src="CSS/seta.png"></span>
+        </div>
+
+        <h2 id="legenda">Legenda:</h2>
+        <div id="config">
+            <span><img src="CSS/imprimir.png"></span>
+            <label>Imprimir</label>
+            <span><img src="CSS/excel.png"></span>
+            <label>Download Excel</label>
+            <span><img src="CSS/pdf.png"></span>
+            <label>Download PDF</label>
+        </div>
+
+        <table id="opcoes">
+            <tr>
+                <td>Inserir</td>
+            </tr>
+            <tr>
+                <td>Editar</td>
+            </tr>
+            <tr>
+                <td>Visualizar</td>
+            </tr>
+        </table>
+
+        <h2 id="status">Status</h2>
+        <h3 id="definicao_status">Enviada para o coordenador</h3>
+
+</body>
+
+</html>

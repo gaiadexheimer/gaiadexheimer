@@ -1,0 +1,116 @@
+
+#foto {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 50%;
+    margin-left: 445px;
+}
+
+body{
+    background-image:url("pexels.jpg");
+    background-size: cover;
+}
+
+#main {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#login{
+    width: 50%;
+    float: left;
+    border-radius: 2px;
+    border: 0.5px solid #c5c5c5;
+    background-color:#ebeded;
+}
+
+#titulo{
+    text-align: center;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 12pt;
+    font-weight: normal;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#email{
+    font-size: 11pt;
+    margin-left: 30px;
+    font-family: Trebuchet MS, sans-serif;
+    cursor: auto;
+}
+
+
+#password{
+    font-size: 11pt;
+    margin-left: 30px;
+    font-family: Trebuchet MS, sans-serif;
+    cursor: auto;
+}
+
+input{
+    display: block;
+    margin: 2px 0px 10px 35px;
+    border-radius: 3px;
+    border: 1px solid #60848a;
+    font-size: 9.5pt;
+    padding: 6px 45px;
+}
+
+
+#botaoentrar{
+    padding: 8px 200px 8px 200px;
+    cursor: pointer;
+    border: 1.5px;
+    background-color: #60848a;
+    border-radius: 3px;
+    margin-top: 25px;
+    font-family: Trebuchet MS, sans-serif;
+    color: ghostwhite;
+    font-weight: bold;
+}
+
+#botaoentrar:hover{
+    text-shadow: 3px 3px 10px #9ad0d9;
+}
+
+#refum{
+    margin-top: 30px;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 13px;
+}
+
+#refdois{
+    margin-bottom: 30px;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 13px;
+}
+
+a{
+    display: block;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+    margin-bottom: 3px;
+    margin-top: 5px;
+    color: #60848a;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#labels{
+    width: 400px;
+    margin: 10px 10px 10px 10px;
+    float: right;
+    font-size: 12pt ;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: justify;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#labels p{
+    margin: 12px 0;
+}
